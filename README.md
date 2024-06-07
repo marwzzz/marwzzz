@@ -1,0 +1,13 @@
+# sobre mim **maria**
+- 👋 **0lá, eu sou @marwzzz**
+- 👀 eu estou interessaa em aprender novas linguagens de programaçâo
+- 🌱 eu estou recentemente aprendendo a programar na linguagem de java script e scratch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+marwzzz/marwzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
