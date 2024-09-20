@@ -1,6 +1,6 @@
 # sobre mim **maria**
 - 👋 **0lá, eu sou @marwzzz**
-- 👀 eu estou interessaa em aprender novas linguagens de programaçâo
+- 👀 eu estou interessada em aprender novas linguagens de programaçâo
 - 🌱 eu estou recentemente aprendendo a programar na linguagem de java script e scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
